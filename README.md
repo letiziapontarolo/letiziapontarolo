@@ -58,4 +58,23 @@ I'm a Master's student in Computer Engineering with a strong interest in softwar
 
 ## 🚀 Featured Projects
 
+- 🚇 **[Race the Rails](https://github.com/letiziapontarolo/race-the-rails)** — Full-stack web game featuring timed route planning, randomized events, and a leaderboard.  
+  `React` · `Node.js` · `Express` · `SQLite`
 
+- 🛒 **[EZShop](https://github.com/letiziapontarolo/ezshop)** — Retail management system, focusing on backend development and testing.  
+  `Python` · `FastAPI` · `SQLite`
+
+- 📊 **Product Sales Graph Analyzer** — Desktop application for analyzing product sales relationships through graph-based modeling and visualization.  
+  `Java` · `JavaFX` · `JGraphT` · `MySQL`
+
+- 🎓 **University Study Plan Manager** — Web application for managing university study plans, courses, and administrative operations.  
+  `PHP` · `MySQL` · `HTML` · `CSS`
+
+---
+
+## 📫 Connect
+
+Feel free to explore my projects and connect with me!
+
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/letizia-pontarolo/)
+- 💻 **GitHub:** [Explore my repositories](https://github.com/letiziapontarolo)
